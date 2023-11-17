@@ -1,0 +1,282 @@
+.sign-in {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-in .div {
+  background-color: #ffffff;
+  width: 428px;
+  height: 926px;
+  position: relative;
+}
+
+.sign-in .sign-in-componen {
+  position: absolute;
+  width: 418px;
+  height: 413px;
+  top: 493px;
+  left: 8px;
+}
+
+.sign-in .n-o-TEM-CONTA {
+  position: absolute;
+  width: 293px;
+  top: 399px;
+  left: 60px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+  white-space: nowrap;
+}
+
+.sign-in .text-wrapper {
+  color: #979797;
+}
+
+.sign-in .span {
+  color: #ff9701;
+}
+
+.sign-in .group {
+  position: absolute;
+  width: 406px;
+  height: 68px;
+  top: 211px;
+  left: 0;
+}
+
+.sign-in .overlap-group {
+  position: relative;
+  width: 404px;
+  height: 68px;
+  background-image: url(./img/rectangle-210.svg);
+  background-size: 100% 100%;
+}
+
+.sign-in .text-wrapper-2 {
+  position: absolute;
+  width: 56px;
+  top: 26px;
+  left: 178px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #f6f1fa;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+  white-space: nowrap;
+}
+
+.sign-in .OR {
+  position: absolute;
+  top: 305px;
+  left: 190px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #a1a4b2;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+  white-space: nowrap;
+}
+
+.sign-in .overlap-wrapper {
+  position: absolute;
+  width: 406px;
+  height: 68px;
+  top: 0;
+  left: 4px;
+}
+
+.sign-in .overlap {
+  position: relative;
+  width: 404px;
+  height: 68px;
+  background-color: #f2f3f7;
+  border-radius: 15px;
+}
+
+.sign-in .text-wrapper-3 {
+  position: absolute;
+  width: 163px;
+  top: 24px;
+  left: 22px;
+  -webkit-text-stroke: 0.15px #a1a4b2;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #a1a4b2;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 17.3px;
+  white-space: nowrap;
+}
+
+.sign-in .overlap-group-wrapper {
+  position: absolute;
+  width: 406px;
+  height: 68px;
+  top: 90px;
+  left: 4px;
+}
+
+.sign-in .div-wrapper {
+  position: relative;
+  width: 404px;
+  height: 68px;
+  background-color: #f2f2f7;
+  border-radius: 15px;
+}
+
+.sign-in .text-wrapper-4 {
+  position: absolute;
+  width: 130px;
+  top: 24px;
+  left: 21px;
+  -webkit-text-stroke: 0.15px #a1a4b2;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #a1a4b2;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 17.3px;
+  white-space: nowrap;
+}
+
+.sign-in .text-wrapper-5 {
+  position: absolute;
+  width: 183px;
+  top: 166px;
+  left: 228px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #3f414e;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+  white-space: nowrap;
+}
+
+.sign-in .sign-in-google {
+  position: absolute;
+  width: 374px;
+  height: 63px;
+  top: 328px;
+  left: 30px;
+}
+
+.sign-in .overlap-2 {
+  position: relative;
+  width: 376px;
+  height: 63px;
+}
+
+.sign-in .botton {
+  position: absolute;
+  width: 376px;
+  height: 63px;
+  top: 0;
+  left: 0;
+}
+
+.sign-in .overlap-group-2 {
+  position: relative;
+  width: 374px;
+  height: 63px;
+  border-radius: 38px;
+  border: 1px solid;
+  border-color: #ebeaec;
+}
+
+.sign-in .p {
+  position: absolute;
+  width: 218px;
+  top: 24px;
+  left: 78px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #3f414e;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+}
+
+.sign-in .logo-google {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 19px;
+  left: 29px;
+}
+
+.sign-in .logo-ilustrasi {
+  position: absolute;
+  width: 354px;
+  height: 355px;
+  top: 119px;
+  left: 26px;
+}
+
+.sign-in .back-botton {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 24px;
+  left: 12px;
+}
+
+.sign-in .overlap-3 {
+  position: relative;
+  height: 55px;
+  border-radius: 38px;
+}
+
+.sign-in .group-2 {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 0;
+  left: 0;
+  border-radius: 38px;
+  border: 1px solid;
+  border-color: #ebeaec;
+  transform: rotate(-180deg);
+}
+
+.sign-in .vector {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 19px;
+  left: 18px;
+}
+
+
+.text-wrapper-2 {
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+.overlap-group-2 {
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+.text-wrapper-5 {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.span {
+  display: inline-block;
+  cursor: pointer;
+  
+}
